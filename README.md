@@ -46,7 +46,7 @@ It also enforces business rules, logs activities, and supports analytics and bus
 - `database/` – SQL scripts and documentation
 - `queries/` – Data retrieval and analytics queries
 - `business_intelligence/` – BI requirements and KPIs
-- `screenshots/` – Evidence of testing and outputs
+- `screenshots/` – Phase Documents with screenshots embedded. 
 - `documentation/` – Data dictionary and design notes
 
 
